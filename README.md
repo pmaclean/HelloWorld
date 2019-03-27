@@ -1,3 +1,2 @@
 # HelloWorld
-Hello World project - First GitHub
-asdfasdfs
+SeeYa World project - First GitHub HaHaHa
